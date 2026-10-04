@@ -1,0 +1,1 @@
+<?php // Dashboard alerts placeholder ?>
